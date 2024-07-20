@@ -1,5 +1,18 @@
-# Machine-Learning-Project-6
-ML project 6- TEXT TO IMAGE GENERATION 
+# CODTECHIT SOLUTIONS Machine-Learning-Project-6
+**ML project 6- TEXT TO IMAGE GENERATION**
+
+NAME: SUMIT SAXENA
+
+COMPANY: CODTECHIT SOLUTIONS
+
+ID: CT4ML5007
+
+DOMAIN: MACHINE LEARNING
+
+DURATION: JULY 15TH TO AUGUST 15TH, 2024
+
+MENTOR: NEELA SANTHOSH KUMAR
+
 
 **Project Overview: Text-to-Image Generation**
 
@@ -41,4 +54,7 @@ The final output of the project includes the generated images based on the input
 
 **Conclusion
 This project demonstrates the implementation of a basic text-to-image generation model using GANs. While this example uses random noise as a placeholder for textual embeddings, future work will involve integrating actual text descriptions and exploring more sophisticated models like Conditional GANs (CGANs) and Attentional GANs (AttnGANs). The project showcases the potential of deep learning in bridging the gap between textual and visual data, paving the way for innovative applications in various domains.**
+
+![txttoimg](https://github.com/user-attachments/assets/cc3aa5a6-02ad-4995-bf28-e87b82047c08)
+
 
